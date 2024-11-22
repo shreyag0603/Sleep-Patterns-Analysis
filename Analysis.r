@@ -1,4 +1,4 @@
-data=read.csv("C:/Users/avikm/OneDrive/Documents/SleepPatterns_and_Academic_Performance - cleaned.csv")
+data=read.csv("SleepPatterns_and_Academic_Performance - cleaned.csv")
 library(dplyr)
 dim(data)
 summary(data)
